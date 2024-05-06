@@ -6,4 +6,4 @@
 
 Отчеты о дефектах: [Баг-репорты по модулям регистрация, авторизация и каталог. Ilgamova](https://github.com/Ilgamova/docs/files/15219227/-.Ilgamova.xlsx)
 
-Тестовый прогон модулей регистрация, авторизация и каталог: [G7-Express run. lgamova Liia](https://github.com/Ilgamova/docs/files/15219223/G7-Express.run.lgamova.Liia.pdf)
+Тестовый прогон модулей регистрация, авторизация и каталог: [G7-Express run. llgamova Liia](https://github.com/Ilgamova/docs/files/15219223/G7-Express.run.lgamova.Liia.pdf)
